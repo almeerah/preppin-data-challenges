@@ -1,3 +1,5 @@
+--Challenge URL: https://preppindata.blogspot.com/2021/01/2021-week-2.html
+
 -- Select all records from the bike_sales table
 SELECT * FROM bike_sales;
 
